@@ -1,16 +1,15 @@
 \select@language {spanish}
 \contentsline {chapter}{\numberline {1}Negocio}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Glosario de T\IeC {\'e}rminos}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Hechos}{1}{section.1.2}
-\contentsline {chapter}{\numberline {2}Requerimientos del Sistema}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}R1 Podra gestionar los usuarios de todas las sucursales.}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Descripci\IeC {\'o}n completa}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Atributos importantes}{3}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}R2 Podr\IeC {\'a} gestionar el cat\IeC {\'a}logo de panes.}{4}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Descripci\IeC {\'o}n completa}{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Atributos importantes}{4}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}R2 Podr\IeC {\'a} gestionar el cat\IeC {\'a}logo de panes.}{4}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Descripci\IeC {\'o}n completa}{4}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Atributos importantes}{4}{subsection.2.3.2}
-\contentsline {chapter}{\numberline {3}Requerimientos del Sistema DDR}{6}{chapter.3}
-\contentsline {section}{\numberline {3.1}Requerimentos del gerente de sucursal}{6}{section.3.1}
+\contentsline {chapter}{\numberline {2}Requerimientos del Sistema}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}R1 Podra gestionar los usuarios de todas las sucursales.}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Descripci\IeC {\'o}n completa}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Atributos importantes}{2}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}R2 Podr\IeC {\'a} gestionar el cat\IeC {\'a}logo de panes.}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Descripci\IeC {\'o}n completa}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Atributos importantes}{3}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}R2 Podr\IeC {\'a} gestionar el cat\IeC {\'a}logo de panes.}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Descripci\IeC {\'o}n completa}{3}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Atributos importantes}{3}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Requerimientos del Sistema DDR}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Requerimentos del gerente de sucursal}{5}{section.3.1}
