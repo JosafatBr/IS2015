@@ -12,3 +12,5 @@
 \contentsline {section}{\numberline {2.3}R2 Podr\IeC {\'a} gestionar el cat\IeC {\'a}logo de panes.}{4}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Descripci\IeC {\'o}n completa}{4}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Atributos importantes}{4}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Requerimientos del Sistema DDR}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Requerimentos del gerente de sucursal}{6}{section.3.1}
