@@ -14,3 +14,4 @@
 \contentsline {chapter}{\numberline {3}Requerimientos del Sistema DDR}{5}{chapter.3}
 \contentsline {section}{\numberline {3.1}Requerimentos Funcionales del gerente de sucursal}{5}{section.3.1}
 \contentsline {section}{\numberline {3.2}Requerimentos Funcionales del empacador}{6}{section.3.2}
+\contentsline {section}{\numberline {3.3}Requerimentos Funcionales del cajero}{6}{section.3.3}

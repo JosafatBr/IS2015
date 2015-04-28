@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.28)  28 APR 2015 02:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.28)  28 APR 2015 03:06
 entering extended mode
 **analisis.tex
 ("C:\Users\Oscar DeArchie\Desktop\LatexIS\analisis.tex"
@@ -802,7 +802,7 @@ l.29 \chapter
 ]
 Cap\'{\i }tulo 2.
 ("C:\Users\Oscar DeArchie\Desktop\LatexIS\ReqGerenteG/R1.tex"
-<images/uc/default.png, id=99, 926.46124pt x 57.21375pt>
+<images/uc/default.png, id=104, 926.46124pt x 57.21375pt>
 File: images/uc/default.png Graphic file (type png)
 
 <use images/uc/default.png>
@@ -843,7 +843,7 @@ Overfull \hbox (47.00287pt too wide) in paragraph at lines 6--6
 [][] 
  []
 
-<images/headerInp.png, id=110, 1858.945pt x 358.33875pt>
+<images/headerInp.png, id=115, 1858.945pt x 358.33875pt>
 File: images/headerInp.png Graphic file (type png)
 
 <use images/headerInp.png>
@@ -871,15 +871,99 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 
 [4]
 Cap\'{\i }tulo 3.
-("C:\Users\Oscar DeArchie\Desktop\LatexIS\ReqGerenteSucursal/R1.tex")
-("C:\Users\Oscar DeArchie\Desktop\LatexIS\ReqEmpacador/Reqs.tex" [5
+("C:\Users\Oscar DeArchie\Desktop\LatexIS\ReqGerenteSucursal/R1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+[]|
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 2--4
+\OT1/cmbr/m/sc/10 RGS1| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 6--6
+[]|\OT1/cmbr/m/sc/10 RGS2| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 8--8
+[]|\OT1/cmbr/m/sc/10 RGS3| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 10--10
+[]|\OT1/cmbr/m/sc/10 RGS4| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 12--12
+[]|\OT1/cmbr/m/sc/10 RGS5| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 14--14
+[]|\OT1/cmbr/m/sc/10 RGS6| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 16--16
+[]|\OT1/cmbr/m/sc/10 RGS7| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 18--18
+[]|\OT1/cmbr/m/sc/10 RGS8| 
+ []
+
+
+Overfull \hbox (1.29001pt too wide) in paragraph at lines 20--20
+[]|\OT1/cmbr/m/sc/10 RGS9| 
+ []
+
+
+Overfull \hbox (6.53996pt too wide) in paragraph at lines 22--22
+[]|\OT1/cmbr/m/sc/10 RGS10| 
+ []
+
+
+Overfull \hbox (6.53996pt too wide) in paragraph at lines 24--24
+[]|\OT1/cmbr/m/sc/10 RGS11| 
+ []
+
+
+Overfull \hbox (0.70668pt too wide) in paragraph at lines 26--26
+[]|\OT1/cmbr/m/sc/10 RG12| 
+ []
+
+) ("C:\Users\Oscar DeArchie\Desktop\LatexIS\ReqEmpacador/Reqs.tex" [5
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-File: images/headerInp.png Graphic file (type png)
+("C:\Users\Oscar DeArchie\Desktop\LatexIS\ReqCajero/Requerimientos.tex"
+Overfull \hbox (1.91498pt too wide) in paragraph at lines 5--5
+[]\OT1/cmbr/m/sc/10 RCA1| 
+ []
 
-<use images/headerInp.png>
-Package pdftex.def Info: images/headerInp.png used on input line 41.
+
+Overfull \hbox (1.91498pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmbr/m/sc/10 RCA2| 
+ []
+
+
+Overfull \hbox (1.91498pt too wide) in paragraph at lines 9--9
+[]|\OT1/cmbr/m/sc/10 RCA3| 
+ []
+
+
+Overfull \hbox (1.91498pt too wide) in paragraph at lines 11--11
+[]|\OT1/cmbr/m/sc/10 RCA4| 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+File: images/headerInp.png Graphic file (type png)
+ <use images/headerInp.png>
+Package pdftex.def Info: images/headerInp.png used on input line 42.
 (pdftex.def)             Requested size: 181.56552pt x 35.0pt.
 
 
@@ -889,23 +973,23 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  ("C:\Users\Oscar DeArchie\Desktop\LatexIS\analisis.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `analisis.out' has not changed.
-(rerunfilecheck)             Checksum: A850E5412B39C7297B966C1A78355C0C;1174.
+(rerunfilecheck)             Checksum: 45A7A4DF4F8C46C77887E315F031FF5D;1258.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 9300 strings out of 493921
- 131608 string characters out of 3147255
- 241170 words of memory out of 3000000
- 12390 multiletter control sequences out of 15000+200000
+ 9309 strings out of 493921
+ 131856 string characters out of 3147255
+ 245316 words of memory out of 3000000
+ 12392 multiletter control sequences out of 15000+200000
  14395 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  48i,15n,45p,321b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -922,9 +1006,9 @@ blic\cmbright\dpi600\cmbrbx10.pk> <C:\Users\Oscar DeArchie\AppData\Local\MiKTeX
 dpi600\cmbr17.pk> <C:\Users\Oscar DeArchie\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\public\cmbright\dpi864\cmbr17.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr10.pfb>
-Output written on analisis.pdf (8 pages, 183920 bytes).
+Output written on analisis.pdf (8 pages, 186004 bytes).
 PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
