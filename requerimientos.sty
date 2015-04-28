@@ -26,10 +26,10 @@
 	\arrayrulecolor{#1}%
 	%\begin{table}[h]%
 	%\caption{Especificación de problemas}%
-	\par\begin{longtable}{| p{.1\textwidth} | p{.5\textwidth} | p{.1\textwidth} | p{.1\textwidth} |}%
+	\par\begin{longtable}{| p{.05\textwidth} | p{.5\textwidth} | p{.1\textwidth} | p{.1\textwidth} | p{.1\textwidth} |}%
 		\arrayrulecolor{white}%
 		\rowcolor{#1}%
-		\problema{\color{white}\bf Id}{\color{white}\bf Descripción}{\color{white}\bf Origen}{\color{white}\bf Pri.}\endhead%
+		\problema{\color{white}\bf Id}{\color{white}\bf Descripción}{\color{white}\bf Origen}{\color{white}\bf Usuario}{\color{white}\bf Pri.}\endhead%
 		\arrayrulecolor{#1}%
 }{%
 	\end{longtable} %
@@ -44,7 +44,7 @@
 %
 % \problema{1}{Error Humano}{La captura en hojas de Excel provoca que errores de dedo afecten los resultados.}{M}
 %\hypertarget{#1}{
-\newcommand{\problema}[4]{ {#1} & {#2} & {#3} & {#4} \\ \hline}
+\newcommand{\problema}[5]{ {#1} & {#2} & {#3} & {#4} & {#5} \\ \hline}
 
 
 \newcommand{\mensaje}[3]{ {#1} & {#2} & {#3} \\ \hline}
