@@ -1,3 +1,4 @@
+<<<<<<< .mine
 \BOOKMARK [0][-]{chapter.1}{Negocio}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Glosario de T\351rminos}{chapter.1}% 2
 \BOOKMARK [0][-]{chapter.2}{Requerimientos del Sistema}{}% 3
@@ -11,4 +12,24 @@
 \BOOKMARK [2][-]{subsection.2.3.1}{Descripci\363n completa}{section.2.3}% 11
 \BOOKMARK [2][-]{subsection.2.3.2}{Atributos importantes}{section.2.3}% 12
 \BOOKMARK [0][-]{chapter.3}{Requerimientos del Sistema DDR}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Requerimentos del gerente de sucursal}{chapter.3}% 14
+=======
+\BOOKMARK [0][-]{chapter.1}{Negocio}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Glosario de T\351rminos}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Requerimientos del Sistema}{}% 3
+\BOOKMARK [1][-]{section.2.1}{R1 Podra gestionar los usuarios de todas las sucursales.}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{Descripci\363n completa}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.2}{Atributos importantes}{section.2.1}% 6
+\BOOKMARK [1][-]{section.2.2}{R2 Podr\341 gestionar el cat\341logo de panes.}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{Descripci\363n completa}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.2}{Atributos importantes}{section.2.2}% 9
+\BOOKMARK [1][-]{section.2.3}{R2 Podr\341 gestionar el cat\341logo de panes.}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.3.1}{Descripci\363n completa}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.2}{Atributos importantes}{section.2.3}% 12
+\BOOKMARK [0][-]{chapter.3}{Requerimientos del Sistema DDR}{}% 13
+<<<<<<< .mine
+\BOOKMARK [1][-]{section.3.1}{Requerimentos del gerente de sucursal}{chapter.3}% 14
+>>>>>>> .r18
+=======
 \BOOKMARK [1][-]{section.3.1}{Requerimentos Funcionales del gerente de sucursal}{chapter.3}% 14
+>>>>>>> .r19
