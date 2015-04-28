@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.25)  27 APR 2015 20:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.25)  27 APR 2015 21:04
 entering extended mode
 **analisis.tex
 (C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\analisis.tex
@@ -773,10 +773,9 @@ File: omscmbrs.fd 2005/04/13 v8.1 (WaS)
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+(C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\analisis.toc)
 \tf@toc=\write4
+
 
 LaTeX Font Warning: Font shape `OT1/cmbr/m/sc' undefined
 (Font)              using `OT1/cmbr/m/n' instead on input line 20.
@@ -802,7 +801,7 @@ l.29 \chapter
 ]
 Cap\'{\i }tulo 2.
 (C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\ReqGerenteG/R1.tex
-<images/uc/default.png, id=80, 926.46124pt x 57.21375pt>
+<images/uc/default.png, id=99, 926.46124pt x 57.21375pt>
 File: images/uc/default.png Graphic file (type png)
 
 <use images/uc/default.png>
@@ -843,7 +842,7 @@ Overfull \hbox (47.00287pt too wide) in paragraph at lines 6--6
 [][] 
  []
 
-<images/headerInp.png, id=91, 1858.945pt x 358.33875pt>
+<images/headerInp.png, id=110, 1858.945pt x 358.33875pt>
 File: images/headerInp.png Graphic file (type png)
 
 <use images/headerInp.png>
@@ -871,87 +870,59 @@ Package Fancyhdr Warning: \headheight is too small (30.0pt):
 
 [4]
 Cap\'{\i }tulo 3.
-(C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\ReqGerenteSucursal/R1.tex
-Overfull \hbox (26.49854pt too wide) in alignment at lines 2--2
- [] [] [] [] 
- []
+(C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\ReqGerenteSucursal/R1.tex)
+(C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\ReqEmpacador/Reqs.tex
+[5
 
-
-Overfull \hbox (12.74823pt too wide) in paragraph at lines 3--3
-[]|\OT1/cmbr/m/sc/10 Mediano| 
- []
-
-
-Overfull \hbox (12.74823pt too wide) in paragraph at lines 11--11
-[]|\OT1/cmbr/m/sc/10 Mediano| 
- []
-
-
-Overfull \hbox (12.74823pt too wide) in paragraph at lines 14--14
-[]|\OT1/cmbr/m/sc/10 Mediano| 
- []
-
-
-Overfull \hbox (12.74823pt too wide) in paragraph at lines 16--16
-[]|\OT1/cmbr/m/sc/10 Mediano| 
- []
-
-
-Overfull \hbox (12.74823pt too wide) in paragraph at lines 18--18
-[]|\OT1/cmbr/m/sc/10 Mediano| 
- []
-
-
-Overfull \hbox (26.49854pt too wide) in alignment at lines 2--28
- [] [] [] [] 
- []
-
-)
+])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [5
+File: images/headerInp.png Graphic file (type png)
+ <use images/headerInp.png>
+Package pdftex.def Info: images/headerInp.png used on input line 41.
+(pdftex.def)             Requested size: 181.56552pt x 35.0pt.
 
-]
+
+Package Fancyhdr Warning: \headheight is too small (30.0pt): 
+ Make it at least 38.75003pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (C:\Users\ANTHONY\Desktop\Repositorio\IS2015\trunk\analisis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package rerunfilecheck Info: File `analisis.out' has not changed.
+(rerunfilecheck)             Checksum: A850E5412B39C7297B966C1A78355C0C;1174.
 
-
-Package rerunfilecheck Warning: File `analisis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `analisis.out':
-(rerunfilecheck)             Before: BC5A5FFDEF47C279F3B92CFA6751F8C7;1075
-(rerunfilecheck)             After:  E8B5F8270162DCB7D97D8E75701291ED;1087.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 9272 strings out of 493921
- 132210 string characters out of 3144870
- 240937 words of memory out of 3000000
- 12372 multiletter control sequences out of 15000+200000
- 10624 words of font info for 40 fonts, out of 3000000 for 9000
+ 9300 strings out of 493921
+ 132818 string characters out of 3144870
+ 241170 words of memory out of 3000000
+ 12390 multiletter control sequences out of 15000+200000
+ 14395 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 48i,15n,45p,321b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,15n,45p,321b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\d
 pi720\cmbrbx10.pk> <C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\p
-ublic\cmbright\dpi600\cmbr10.pk> <C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\public\cmbright\dpi600\cmbrbx10.pk> <C:\Users\ANTHONY\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi864\cmbrbx10.pk> <C:\Users\ANTH
-ONY\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi525\cmbr8.pk> <
+ublic\cmbright\dpi864\cmbrbx10.pk> <C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\public\cmbright\dpi525\cmbr8.pk> <C:\Users\ANTHONY\AppData\Local
+\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi600\cmbr10.pk> <C:\Users\ANTHONY
+\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi600\cmbrbx10.pk> <
 C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi86
 4\cmbr10.pk> <C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\
 cmbright\dpi720\cmbr10.pk> <C:\Users\ANTHONY\AppData\Local\MiKTeX\2.9\fonts\pk\
 ljfour\public\cmbright\dpi600\cmbr17.pk> <C:\Users\ANTHONY\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\public\cmbright\dpi864\cmbr17.pk><C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on analisis.pdf (7 pages, 175772 bytes).
+Output written on analisis.pdf (8 pages, 183844 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
