@@ -1,8 +1,7 @@
-\begin{UseCase}{R2}{Podrá gestionar el catálogo de panes.}{
-		El podrá dar de alta, baja y hacer cambios sobre
-		el catálogo de pan, es decir, cambiar precios,
-		quitar pan, dar de alta nuevo pan y cambiar imagen
-		de pan.
+\begin{UseCase}{R3}{Podrá monitorear el reporte de ventas.}{
+	  El gerente general estará viendo periodicamente el
+	  reporte de ventas por si hay alguna falla que el pueda
+	  visualizar y así hacer cambios en el sistema.
 	}
 		\UCitem{Versión}{0.1}
 		\UCitem{Responsable}{Josafat}
@@ -12,19 +11,15 @@
 		%Terminado: El evaluado lo debe revisar
 		%Aprobado: El evaluado lo aprobó.
 		\UCitem{Actor(es)}{Gerente General}
-		\UCitem{Justificación}{Es con fin a que
-		el gerente general cuando decida cambiar,
-		dar de alta o modificar el catálogo de panes, lo
-		haga mediante el sistema.}
+		\UCitem{Justificación}{El gerente viendo cualquier
+		falla dentro del reporte de ventas podrá hacer
+		cambios de lo que se requiera en el momento.}
 		\UCitem{Entradas}{}
 		\UCitem{Salidas}{}
-		\UCitem{Precondiciones}{Para cambios, que el
-		tipo de pan exista, para otro caso proporcionar
-		datos que el sistema lo requiera.}
-		\UCitem{Postcondiciones}{Para cambios, el sistema
-		lo reflejara en todas las sucursales viendose afectado
-		el catalogo de panes, en otor caso, el nuevo pan se verá
-		reflejado en el catálogo de panes.}
-		\UCitem{Errores}{Pan existente, datos mal proporcionados 
-		y datos no completos.}
+		\UCitem{Precondiciones}{
+		que se haya generado el reporte de ventas.}
+		\UCitem{Postcondiciones}{Un documento generado
+		por el sistema para que lo visualice el 
+		gerente general.}
+		\UCitem{Errores}{Datos erroneos.}
 	\end{UseCase}
