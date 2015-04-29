@@ -1,30 +1,25 @@
 
-\section{Requerimentos Funcionales del gerente de sucursal}
+\section{Requerimentos Funcionales del Sistema Panaderia}
 \begin{problemas}[BlueViolet]{}
-\problema{RGS1}{Dar de alta empleado. El gerente dará de alta al empleado ingresando su nombre, edad y puesto.}{RC1}{Gerente de Sucursal}{Mediano}
-
-\problema{RGS2}{Dar de baja a empleado. El gerente podrá dar de baja un empleado por medio de su ID.}{RC1}{Gerente de Sucursal}{bajo}
-
-\problema{RGS3}{Visualizar datos del empelado. El gerente visualizará los datos del empleado como su nombre, edad, puesto, salario y su fotografía.}{RC1}{Gerente de Sucursal}{Bajo}
-
-\problema{RGS4}{Modificar datos de empleado. El gerente podrá modifica los datos del empleado como su nombre, edad o puesto.}{RC1}{Gerente de Sucursal}{Bajo}
-
-\problema{RGS5}{Agregar pan al catálogo. El gerente podrá registrar un pan insertando su nombre, precio y una imagen de este.}{RC1}{Gerente de Sucursal}{Mediano}
-
-\problema{RGS6}{Modificar pan al catálogo. El gerente podrá modificar los panes registrados en el catálogo como su fotografía, precio o nombre.}{RC1}{Gerente de Sucursal}{Mediano}
-
-\problema{RGS7}{Eliminar pan del catálogo. El gerente podrá eliminar pan registrado en el catálogo por medio del ID.}{RC1}{Gerente de Sucursal}{Mediano}
-
-\problema{RGS8}{Consultar ventas. EL gerente podrá consultar las ventas realizadas en la sucursal en cualquier momento del día.}{RC1}{Gerente de Sucursal}{Mediano}
-
-\problema{RGS9}{Dar de baja venta. El gerente podrá cancelar ventas por medio del identificador de esta.}{RC1}{Gerente de Sucursal}{bajo}
-
-\problema{RGS10}{Consultar contabilidad. El gerente podrá consulta la contabilidad de su sucursal.}{RC1}{Gerente de Sucursal}{Alto}
-
-\problema{RGS11}{Consultar esquema de producción. El gerente podrá consultar el esquema de producción de la panadería para visualizar que pan se produjo.}{RC1}{Gerente de Sucursal}{Alto}
-
-\problema{RG12}{Consultar esquema de demanda. El gerente podrá consultar el esquema de demanda.}{RC1}{Gerente de Sucursal}{Alto}
-
+\problema{RGS1}{Dar de alta empleado.}{RC1}{GG,GS}{Mediano}
+\problema{RGS2}{Dar de baja a empleado.}{RC1}{GG,GS}{bajo}
+\problema{RGS3}{Visualizar datos del empelado.}{RC1}{GG,GS}{Bajo}
+\problema{RGS4}{Modificar datos de empleado. }{RC1}{GG,GS}{Bajo}
+\problema{RGS5}{Agregar pan al catálogo.}{RC1}{GG,GS}{Mediano}
+\problema{RGS6}{Modificar pan del catálogo.}{RC1}{GG,GS}{Mediano}
+\problema{RGS7}{Eliminar pan del catálogo}{RC1}{GG,GS}{Mediano}
+\problema{RGS8}{Consultar ventas.}{RC1}{GG,GS}{Mediano}
+\problema{RGS9}{cancelar venta.}{RC1}{Todos}{bajo}
+\problema{RGS10}{Consultar contabilidad.}{RC1}{GG,GS}{Alto}
+\problema{RGG3}{revisar el itinerario de produccion propuesto por el sistema.}{RC1}{GG,GS}{Mediano}
+\problema{RGG1}{modificar el itinerario de produccion propuesto por el sistema.}{RC1}{GG}{Alto}
+\problema{RGG2}{revisar el itinerario de entregas propuesto por el sistema.}{RC1}{GG,GS}{Mediano}
+\problema{RGS11}{modificar el itinerario de entregas propuesto por el sistema.}{RC1}{GG}{Alto}
+\problema{RG12}{Consultar el pronostico de demanda}{RC1}{GG,GS}{Alto}
+\problema{RE1}{registro de las ventas }{RC1}{GS,EM}{Alto}
+\problema{RCA1}{Cobrar venta}{RC1}{GS,CA}{Alto}
+\problema{RCA2}{realizar cortes de caja.}{RC1}{GS,CA}{Bajo}
+\problema{RCA4}{iniciar sesión en el sistema.}{RC1}{Todos}{Bajo}
 \end{problemas}
 % Definir un problema (se usa con el environment problemas
 % Usar: \problema{id o Nombre}{Descripción}{Origen}{Prioridad}
